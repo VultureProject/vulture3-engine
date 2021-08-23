@@ -1,0 +1,7 @@
+apache          2.4.48
+mod_h2          0.8.2
+hiredis         0.13.3
+mod_proxy_msrpc 0.6.0
+mod_wsgi        4.4.12
+mod_vulture     1.0.0
+mod_security	2.9.2
